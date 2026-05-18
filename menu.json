@@ -1,0 +1,375 @@
+{
+  "Appetizers": [
+    {
+      "name": "French Fries",
+      "description": "Crispy golden french fries served with ketchup",
+      "price": 60
+    },
+    {
+      "name": "Cheese Fries",
+      "description": "French fries topped with cheddar cheese sauce",
+      "price": 85
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "description": "Fried mozzarella cheese sticks with marinara sauce",
+      "price": 110
+    },
+    {
+      "name": "Onion Rings",
+      "description": "Crispy battered onion rings",
+      "price": 75
+    },
+    {
+      "name": "Chicken Wings",
+      "description": "Spicy buffalo chicken wings",
+      "price": 150
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "Toasted bread with garlic butter and herbs",
+      "price": 70
+    }
+  ],
+
+  "Pizza": [
+    {
+      "name": "Margherita",
+      "description": "Tomato sauce, mozzarella cheese, fresh basil",
+      "price": 120
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "description": "Pepperoni slices, mozzarella, tomato sauce",
+      "price": 160
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "description": "Grilled chicken, BBQ sauce, onions, mozzarella",
+      "price": 180
+    },
+    {
+      "name": "Veggie Pizza",
+      "description": "Mushrooms, olives, peppers, onions, mozzarella",
+      "price": 150
+    },
+    {
+      "name": "Meat Lovers Pizza",
+      "description": "Pepperoni, beef, sausage, mozzarella",
+      "price": 230
+    },
+    {
+      "name": "Seafood Pizza",
+      "description": "Shrimp, calamari, garlic sauce, mozzarella",
+      "price": 260
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "description": "Mozzarella, parmesan, cheddar, blue cheese",
+      "price": 210
+    }
+  ],
+
+  "Burgers": [
+    {
+      "name": "Classic Burger",
+      "description": "Beef patty, lettuce, tomato, cheese",
+      "price": 150
+    },
+    {
+      "name": "Double Cheeseburger",
+      "description": "Double beef patties, cheddar cheese, pickles",
+      "price": 220
+    },
+    {
+      "name": "Chicken Burger",
+      "description": "Crispy chicken fillet, lettuce, mayo",
+      "price": 140
+    },
+    {
+      "name": "Mushroom Burger",
+      "description": "Beef patty with mushroom sauce and swiss cheese",
+      "price": 190
+    },
+    {
+      "name": "BBQ Burger",
+      "description": "Beef burger with BBQ sauce and onion rings",
+      "price": 210
+    },
+    {
+      "name": "Spicy Jalapeno Burger",
+      "description": "Spicy beef burger with jalapenos and hot sauce",
+      "price": 205
+    }
+  ],
+
+  "Pasta": [
+    {
+      "name": "Alfredo Pasta",
+      "description": "Creamy alfredo sauce with grilled chicken",
+      "price": 170
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "description": "Spaghetti with minced beef tomato sauce",
+      "price": 160
+    },
+    {
+      "name": "Seafood Pasta",
+      "description": "Shrimp and calamari in creamy sauce",
+      "price": 240
+    },
+    {
+      "name": "Pesto Pasta",
+      "description": "Pasta tossed in fresh basil pesto sauce",
+      "price": 180
+    },
+    {
+      "name": "Mac and Cheese",
+      "description": "Creamy macaroni pasta with cheddar cheese",
+      "price": 150
+    }
+  ],
+
+  "Sandwiches": [
+    {
+      "name": "Club Sandwich",
+      "description": "Turkey, cheese, lettuce, tomato, mayo",
+      "price": 130
+    },
+    {
+      "name": "Steak Sandwich",
+      "description": "Grilled steak slices with caramelized onions",
+      "price": 210
+    },
+    {
+      "name": "Chicken Wrap",
+      "description": "Grilled chicken with garlic sauce in tortilla",
+      "price": 125
+    },
+    {
+      "name": "Tuna Sandwich",
+      "description": "Fresh tuna mix with lettuce and mayo",
+      "price": 120
+    },
+    {
+      "name": "Falafel Wrap",
+      "description": "Falafel with tahini sauce and vegetables",
+      "price": 90
+    }
+  ],
+
+  "Salads": [
+    {
+      "name": "Caesar Salad",
+      "description": "Romaine lettuce, parmesan, croutons, caesar dressing",
+      "price": 110
+    },
+    {
+      "name": "Greek Salad",
+      "description": "Feta cheese, olives, cucumber, tomatoes",
+      "price": 100
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "description": "Caesar salad topped with grilled chicken",
+      "price": 145
+    },
+    {
+      "name": "Quinoa Salad",
+      "description": "Healthy quinoa with avocado and vegetables",
+      "price": 160
+    }
+  ],
+
+  "Grill": [
+    {
+      "name": "Grilled Chicken",
+      "description": "Charcoal grilled chicken breast with herbs",
+      "price": 220
+    },
+    {
+      "name": "Mixed Grill",
+      "description": "Kofta, kebab, chicken served with rice",
+      "price": 350
+    },
+    {
+      "name": "Beef Steak",
+      "description": "Grilled beef steak with pepper sauce",
+      "price": 420
+    },
+    {
+      "name": "Lamb Chops",
+      "description": "Juicy grilled lamb chops",
+      "price": 480
+    }
+  ],
+
+  "Seafood": [
+    {
+      "name": "Grilled Salmon",
+      "description": "Fresh salmon fillet with lemon butter sauce",
+      "price": 320
+    },
+    {
+      "name": "Fried Shrimp",
+      "description": "Crispy fried shrimp with tartar sauce",
+      "price": 280
+    },
+    {
+      "name": "Fish and Chips",
+      "description": "Fried fish fillet with french fries",
+      "price": 230
+    },
+    {
+      "name": "Seafood Soup",
+      "description": "Rich seafood soup with shrimp and fish",
+      "price": 190
+    }
+  ],
+
+  "Desserts": [
+    {
+      "name": "Chocolate Cake",
+      "description": "Rich chocolate layered cake",
+      "price": 90
+    },
+    {
+      "name": "Cheesecake",
+      "description": "Creamy cheesecake with strawberry topping",
+      "price": 110
+    },
+    {
+      "name": "Ice Cream",
+      "description": "Vanilla, chocolate, or strawberry scoops",
+      "price": 70
+    },
+    {
+      "name": "Brownie",
+      "description": "Warm chocolate brownie with ice cream",
+      "price": 120
+    },
+    {
+      "name": "Tiramisu",
+      "description": "Italian coffee-flavored dessert",
+      "price": 140
+    },
+    {
+      "name": "Kunafa",
+      "description": "Traditional kunafa with cream filling",
+      "price": 130
+    }
+  ],
+
+  "Drinks": [
+    {
+      "name": "Coca Cola",
+      "description": "Cold soft drink",
+      "price": 35
+    },
+    {
+      "name": "Sprite",
+      "description": "Lemon flavored soft drink",
+      "price": 35
+    },
+    {
+      "name": "Orange Juice",
+      "description": "Fresh natural orange juice",
+      "price": 50
+    },
+    {
+      "name": "Mango Juice",
+      "description": "Fresh mango juice",
+      "price": 60
+    },
+    {
+      "name": "Iced Coffee",
+      "description": "Cold coffee with milk and ice",
+      "price": 65
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Espresso with steamed milk foam",
+      "price": 75
+    },
+    {
+      "name": "Latte",
+      "description": "Espresso with milk",
+      "price": 80
+    },
+    {
+      "name": "Mineral Water",
+      "description": "500ml bottled water",
+      "price": 20
+    }
+  ],
+
+  "Breakfast": [
+    {
+      "name": "English Breakfast",
+      "description": "Eggs, sausage, toast, beans",
+      "price": 180
+    },
+    {
+      "name": "Pancakes",
+      "description": "Pancakes served with maple syrup",
+      "price": 120
+    },
+    {
+      "name": "Omelette",
+      "description": "Three-egg omelette with cheese",
+      "price": 90
+    },
+    {
+      "name": "French Toast",
+      "description": "Toasted bread with cinnamon and syrup",
+      "price": 110
+    },
+    {
+      "name": "Croissant Breakfast",
+      "description": "Butter croissant with cheese and turkey",
+      "price": 130
+    }
+  ],
+
+  "Asian": [
+    {
+      "name": "Chicken Fried Rice",
+      "description": "Asian style fried rice with chicken",
+      "price": 170
+    },
+    {
+      "name": "Beef Noodles",
+      "description": "Noodles with beef strips and vegetables",
+      "price": 210
+    },
+    {
+      "name": "Sushi Platter",
+      "description": "Assorted sushi rolls",
+      "price": 420
+    },
+    {
+      "name": "Sweet and Sour Chicken",
+      "description": "Chicken in sweet sour sauce",
+      "price": 190
+    }
+  ],
+
+  "Kids Meals": [
+    {
+      "name": "Kids Burger Meal",
+      "description": "Mini burger with fries and juice",
+      "price": 120
+    },
+    {
+      "name": "Kids Pizza",
+      "description": "Small cheese pizza",
+      "price": 100
+    },
+    {
+      "name": "Chicken Nuggets",
+      "description": "Crispy nuggets with fries",
+      "price": 110
+    }
+  ]
+}
